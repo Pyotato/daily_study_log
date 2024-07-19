@@ -13,7 +13,9 @@
 |2024/07/16 | • [ReferenceError: __dirname is not defined in ES module scope](https://pyotato-dev.tistory.com/entry/ReferenceError-dirname-is-not-defined-in-ES-module-scope) <br/> •[[turborepo 설정] storybook Chromatic CLI 으로 배포하는 법](https://pyotato-dev.tistory.com/entry/turborepo-%EC%84%A4%EC%A0%95-storybook-Chromatic-CLI-%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%EB%B2%95)
 |2024/07/17 | • [Data Structures & Algorithms with Javascript : Intro](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript) <br/> •[Data Structures & Algorithms with Javascript : Array](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Arrays)
 |2024/07/18 | • [Data Structures & Algorithms with Javascript : Lists](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Lists) <br/> 
-|2024/07/19 | • [Data Structures & Algorithms with Javascript : stack](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Stacks) 
+|2024/07/19 | • [Data Structures & Algorithms with Javascript : stack](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Stacks) <br/> • [[🪲debug]react-hydration-error: Hydration failed because the server rendered didn't match the client]()
+
+
 
 
 
