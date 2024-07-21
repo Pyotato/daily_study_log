@@ -15,6 +15,8 @@
 |2024/07/18 | • [Data Structures & Algorithms with Javascript : Lists](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Lists) <br/> 
 |2024/07/19 | • [Data Structures & Algorithms with Javascript : stack](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Stacks) <br/> • [[🪲debug]react-hydration-error: Hydration failed because the server rendered didn't match the client](https://pyotato-dev.tistory.com/entry/react-hydration-error-Hydration-failed-because-the-server-rendered-didnt-match-the-client)
 |2024/07/20 | • [Data Structures & Algorithms with Javascript : Queues](https://pyotato-dev.tistory.com/entry/%F0%9F%A4%96-data-structures-algorithms-Data-Structures-Algorithms-with-Javascript-Queues)
+|2024/07/21 | • [sass 주석 달기](https://pyotato-dev.tistory.com/entry/Sass-%EC%A3%BC%EC%84%9DComments)
+
 
 
 
