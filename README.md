@@ -17,7 +17,7 @@
 |2024/07/20 | • [Data Structures & Algorithms with Javascript : Queues](https://pyotato-dev.tistory.com/entry/%F0%9F%A4%96-data-structures-algorithms-Data-Structures-Algorithms-with-Javascript-Queues)
 |2024/07/21 | • [sass 주석 달기](https://pyotato-dev.tistory.com/entry/Sass-%EC%A3%BC%EC%84%9DComments) <br/> • [Data Structures & Algorithms with Javascript : Linked Lists](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Linked-Lists)
 |2024/07/22 | • [Data Structures & Algorithms with Javascript : Dictionary](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Dictionaries)
-|2024/07/22 | • [[🪲 debug ]Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined.](https://pyotato-dev.tistory.com/manage/posts/)
+|2024/07/22 | • [[🪲 debug ]Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined.](https://pyotato-dev.tistory.com/entry/Warning-Reactjsx-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined) <br/> • [Data Structures & Algorithms with Javascript : Hashing](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Hashing)
 
 
 
