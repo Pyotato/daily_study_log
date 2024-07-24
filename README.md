@@ -18,7 +18,7 @@
 |2024/07/21 | • [sass 주석 달기](https://pyotato-dev.tistory.com/entry/Sass-%EC%A3%BC%EC%84%9DComments) <br/> • [Data Structures & Algorithms with Javascript : Linked Lists](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Linked-Lists)
 |2024/07/22 | • [Data Structures & Algorithms with Javascript : Dictionary](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Dictionaries)
 |2024/07/23 | • [[🪲 debug ]Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined.](https://pyotato-dev.tistory.com/entry/Warning-Reactjsx-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined) <br/> • [Data Structures & Algorithms with Javascript : Hashing](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Hashing)
-|2024/07/24 | • [Data Structures & Algorithms with Javascript : Sets](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sets) <br/> [다크 모드 구현 (feat. 유저/os 제어권 넘기기)](https://pyotato-dev.tistory.com/entry/%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%EA%B5%AC%ED%98%84)
+|2024/07/24 | • [Data Structures & Algorithms with Javascript : Sets](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sets) <br/> • [다크 모드 구현 (feat. 유저/os 제어권 넘기기)](https://pyotato-dev.tistory.com/entry/%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%EA%B5%AC%ED%98%84)
 
 
 
