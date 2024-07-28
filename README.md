@@ -21,8 +21,8 @@
 |2024/07/24 | • [Data Structures & Algorithms with Javascript : Sets](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sets) <br/> • [다크 모드 구현 (feat. 유저/os 제어권 넘기기)](https://pyotato-dev.tistory.com/entry/%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%EA%B5%AC%ED%98%84)
 |2024/07/25 | • [Data Structures & Algorithms with Javascript : Binary Trees and Binary Search Trees](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Binary-Trees-and-Binary-Search-Trees)
 |2024/07/26 | • [Data Structures & Algorithms with Javascript :  Graphs and Graph Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Graphs-and-Graph-Alogorithms)
-|2024/07/27 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms)
-|2024/07/28 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms(🚨진행중)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms)
+|2024/07/27 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms (basic)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms)
+|2024/07/28 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms(advanced)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms-Advanced)
 
 
 
