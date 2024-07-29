@@ -23,7 +23,7 @@
 |2024/07/26 | • [Data Structures & Algorithms with Javascript :  Graphs and Graph Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Graphs-and-Graph-Alogorithms)
 |2024/07/27 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms (basic)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms)
 |2024/07/28 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms(advanced)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms-Advanced)
-
+|2024/07/29 | • [Data Structures & Algorithms with Javascript : Searching Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Searching-Algorithms)
 
 
 
