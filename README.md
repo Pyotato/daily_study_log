@@ -24,7 +24,7 @@
 |2024/07/27 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms (basic)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms)
 |2024/07/28 | • [Data Structures & Algorithms with Javascript :  Sorting Algorithms(advanced)](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Sorting-Algorithms-Advanced)
 |2024/07/29 | • [Data Structures & Algorithms with Javascript : Searching Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Searching-Algorithms)
-|2024/07/30 | • [CI/CD : github action no triggered when pushing to branch](https://pyotato-dev.tistory.com/entry/CICD-github-action-no-triggered-when-pushing-to-branch) <br/> • [[Data Structures & Algorithms with Javascript :  Advanced Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Advanced-Algorithms)
+|2024/07/30 | • [CI/CD : github action no triggered when pushing to branch](https://pyotato-dev.tistory.com/entry/CICD-github-action-no-triggered-when-pushing-to-branch) <br/> • [Data Structures & Algorithms with Javascript :  Advanced Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Advanced-Algorithms)
 
 
 
