@@ -27,7 +27,6 @@
 |2024/07/30 | • [CI/CD : github action no triggered when pushing to branch](https://pyotato-dev.tistory.com/entry/CICD-github-action-no-triggered-when-pushing-to-branch) <br/> • [Data Structures & Algorithms with Javascript :  Advanced Algorithms](https://pyotato-dev.tistory.com/entry/Data-Structures-Algorithms-with-Javascript-Advanced-Algorithms)
 |2024/07/31 | • [[🪲 debug][jest + rtl + monorepo + next + ts]SyntaxError : Unexpected token '<' (ft. "jsx": "react-jsx")](https://pyotato-dev.tistory.com/entry/jest-rtl-monorepo-next-tsSyntaxError-Unexpected-token-ft-jsx-react-jsx) 
 |2024/08/01 | • [토스ㅣSLASH 23 - 누구나 쓸 수 있는 접근성 높은 토스 만들기](https://pyotato-dev.tistory.com/entry/%ED%86%A0%EC%8A%A4%E3%85%A3SLASH-23-%EB%88%84%EA%B5%AC%EB%82%98-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A0%91%EA%B7%BC%EC%84%B1-%EB%86%92%EC%9D%80-%ED%86%A0%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0) 
-
-
+|2024/08/01 | • [[🪲 debug][Jest + RTL (next/link)] TypeError: Cannot read properites of null (reading 'useContext') ft. jest.mock ](https://pyotato-dev.tistory.com/entry/Jest-RTL-nextlink-TypeError-Cannot-read-properites-of-null-reading-useContext-ft-jestmock) 
 
 
