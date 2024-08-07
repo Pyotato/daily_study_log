@@ -28,7 +28,8 @@
 |2024/07/31 | • [[🪲 debug][jest + rtl + monorepo + next + ts]SyntaxError : Unexpected token '<' (ft. "jsx": "react-jsx")](https://pyotato-dev.tistory.com/entry/jest-rtl-monorepo-next-tsSyntaxError-Unexpected-token-ft-jsx-react-jsx) 
 |2024/08/01 | • [토스ㅣSLASH 23 - 누구나 쓸 수 있는 접근성 높은 토스 만들기](https://pyotato-dev.tistory.com/entry/%ED%86%A0%EC%8A%A4%E3%85%A3SLASH-23-%EB%88%84%EA%B5%AC%EB%82%98-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A0%91%EA%B7%BC%EC%84%B1-%EB%86%92%EC%9D%80-%ED%86%A0%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0) 
 |2024/08/02 | • [[🪲 debug][Jest + RTL (next/link)] TypeError: Cannot read properites of null (reading 'useContext') ft. jest.mock ](https://pyotato-dev.tistory.com/entry/Jest-RTL-nextlink-TypeError-Cannot-read-properites-of-null-reading-useContext-ft-jestmock) 
-|2024/08/05 | • [[⚛️ 리액트 패턴 : Compound Components](https://pyotato-dev.tistory.com/entry/%E2%9A%9B%EF%B8%8F-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-Compound-Components-%ED%95%A9%EC%84%B1-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) 
-|2024/08/06 | • []() 
+|2024/08/05 | • [⚛️ 리액트 패턴 : Compound Components](https://pyotato-dev.tistory.com/entry/%E2%9A%9B%EF%B8%8F-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-Compound-Components-%ED%95%A9%EC%84%B1-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) 
+|2024/08/06 | • [⚛️ 리액트 패턴 : Compound Components](https://pyotato-dev.tistory.com/entry/%E2%9A%9B%EF%B8%8F-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-Compound-Components-%ED%95%A9%EC%84%B1-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) 
+|2024/08/07 | • [[💻 컴퓨터 용어 ] "Opinionated"란?](https://pyotato-dev.tistory.com/entry/%F0%9F%92%BB-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%9A%A9%EC%96%B4-Opinionated%EB%9E%80) 
 
 
