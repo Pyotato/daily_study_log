@@ -31,5 +31,6 @@
 |2024/08/05 | • [⚛️ 리액트 패턴 : Compound Components](https://pyotato-dev.tistory.com/entry/%E2%9A%9B%EF%B8%8F-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-Compound-Components-%ED%95%A9%EC%84%B1-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) 
 |2024/08/06 | • [⚛️ 리액트 패턴 : Compound Components](https://pyotato-dev.tistory.com/entry/%E2%9A%9B%EF%B8%8F-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-Compound-Components-%ED%95%A9%EC%84%B1-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) 
 |2024/08/07 | • [[💻 컴퓨터 용어 ] "Opinionated"란?](https://pyotato-dev.tistory.com/entry/%F0%9F%92%BB-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%9A%A9%EC%96%B4-Opinionated%EB%9E%80) 
+|2024/08/08 | • [eslint + prettier + commitlint 설정 (+husky)](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B84-eslint-prettier-commitlint-%EC%84%A4%EC%A0%95-husky) 
 
 
