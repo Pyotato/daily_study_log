@@ -34,5 +34,6 @@
 |2024/08/08 | • [eslint + prettier + commitlint 설정 (+husky)](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B84-eslint-prettier-commitlint-%EC%84%A4%EC%A0%95-husky) 
 |2024/08/09 | • [react-router 설정](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B85-react-router-%EC%84%A4%EC%A0%95) 
 |2024/08/10 | • [tanstack query 설정](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B86) 
+|2024/08/11 | • [Nextjs Image : The request resource XX has type "image/svg+xml" but dangerouslyAllowSVG is disabled](https://pyotato-dev.tistory.com/entry/Nextjs-Image-The-requeset-resource-XX-has-type-imagesvgxml-but-dangerouslyAllowSVG-is-disabled)
 
 
