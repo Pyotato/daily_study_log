@@ -35,6 +35,7 @@
 |2024/08/09 | • [react-router 설정](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B85-react-router-%EC%84%A4%EC%A0%95) 
 |2024/08/10 | • [tanstack query 설정](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B86) 
 |2024/08/11 | • [Nextjs Image : The request resource XX has type "image/svg+xml" but dangerouslyAllowSVG is disabled](https://pyotato-dev.tistory.com/entry/Nextjs-Image-The-requeset-resource-XX-has-type-imagesvgxml-but-dangerouslyAllowSVG-is-disabled)
+|2024/08/15 | • [Sentry 설정](https://pyotato-dev.tistory.com/entry/spotify-api-VINYLIFY-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-api%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%9E%AC%EC%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B87-Sentry-%EC%84%A4%EC%A0%95)
 |2024/08/16 | • [토스ㅣ Transpiler, "사용"말고 "활용"하기, (ft. 이벤트 위임)](https://pyotato-dev.tistory.com/entry/%ED%86%A0%EC%8A%A4-Transpiler-%E2%80%9C%EC%82%AC%EC%9A%A9%E2%80%9D%EB%A7%90%EA%B3%A0-%E2%80%9C%ED%99%9C%EC%9A%A9%E2%80%9D%ED%95%98%EA%B8%B0) 
 
 
